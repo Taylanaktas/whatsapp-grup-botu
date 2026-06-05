@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-grup-botu",
+  "version": "1.0.0",
+  "description": "7/24 Aktif Arkadaş Grubu Botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.26.0",
+    "qrcode-terminal": "^0.12.0",
+    "axios": "^1.6.0"
+  }
+}
