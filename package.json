@@ -4,7 +4,6 @@
   "description": "7/24 Aktif Arkadaş Grubu Botu",
   "main": "index.js",
   "scripts": {
-    "postinstall": "npx puppeteer browsers install chrome",
     "start": "node index.js"
   },
   "dependencies": {
